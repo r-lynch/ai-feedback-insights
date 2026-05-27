@@ -2,8 +2,6 @@
 
 > **Operational intelligence infrastructure for converting qualitative customer conversations into structured product and revenue signals.**
 
-Built as a demonstration of AI fluency, workflow automation, and operational thinking for the **Impact Strategy & Operations** function at ElevenLabs.
-
 ---
 
 ## What This Is
@@ -230,9 +228,3 @@ This project was built to show, not tell, the following capabilities:
 The sample transcripts are fictional but grounded in realistic enterprise SaaS dynamics. Names, companies, and scenarios are invented. Any resemblance to real customers, companies, or individuals is unintentional.
 
 ---
-
-## Author
-
-Built by [Your Name] · [LinkedIn](https://linkedin.com/in/yourprofile) · [your@email.com](mailto:your@email.com)
-
-*Candidate project for Impact Strategy & Operations at ElevenLabs.*
